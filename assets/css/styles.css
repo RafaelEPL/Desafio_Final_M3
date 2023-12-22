@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(65, 65, 65);
+    color:white;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    align-items: center;
+    background-color: rgb(52, 44, 44);
+    margin:10px auto;
+}
+
+.container{
+    width: 50%;
+    margin:10px auto;
+}
+
+button, input, select, h3{
+    width: 170px;
+    margin: 0px 0px 8px 0px;
+    padding: 5px 0px 5px 0px;
+    text-align: center;
+}
+
+button{
+    background-color: deepskyblue;
+    color:rgb(255, 255, 255);
+    border-color: deepskyblue;
+}
+canvas{
+    background-color: rgb(50, 50, 50);
+}
+
+header{
+    width: 30%;
+    margin:auto;
+    margin-top: 10px;
+}
